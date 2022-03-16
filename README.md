@@ -1,4 +1,4 @@
-# opensocial
+# Open Social
 Open Source SNS system Open Social Japanese resources
 Open Social is an Open Source Software based on Drupal, and this Japanese translation information use for Japanese Open Social users.
 
