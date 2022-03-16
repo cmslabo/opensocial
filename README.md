@@ -7,6 +7,6 @@ https://www.drupal.org/project/social
 
 Download Translation data
   Open Social Version 11 Japanese Language files
-  https://github.com/cmslabo/opigno/blob/master/opigno_lms-8.x-2.16_ja_20201108.po
+  at Mar.16, 2022 https://github.com/cmslabo/opensocial/blob/main/ja_v11_2022-0316-1.po
 
 
